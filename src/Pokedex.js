@@ -22,8 +22,8 @@ class Pokedex extends React.Component{
         } else {
             title = <h1 className='Pokedex-loser'>Losing Hand</h1>;
         }
-        return(<div>
-            <h1>Pokedex!</h1>
+        return(<div className='Pokedex'>
+
             <p>Total Experience: {this.props.exp}</p>
             <p>{title}</p>
             <div className='Pokedex-cards'>
