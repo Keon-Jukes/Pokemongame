@@ -1,0 +1,10 @@
+.Pokecard {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    flex-direction: row;
+    background-color: gray;
+   
+
+ 
+}
