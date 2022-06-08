@@ -1,9 +1,9 @@
-import Pokedex from "./Pokedex";
+import Pokegame from "./Pokegame";
 
 function App() {
   return (
     <div>
-    <Pokedex />
+    <Pokegame />
     </div>
   );
 }
